@@ -11,7 +11,6 @@ To perform security testing different tools are available in order to be able to
 - [Mobisec](https://sourceforge.net/projects/mobisec/ "Mobisec") - Mobile security testing live environment.
 - [Santoku](https://santoku-linux.com/ "Santoku") - Santoku is an OS and can be run outside a VM as a standalone operating system.
 - [Mobile Security Toolchain](https://github.com/xebia/mobilehacktools "Mobile Security Toolchain") - A project used to install many of the tools mentioned in this section both for Android and iOS at a machine running Mac OSX. The project installs the tools via Ansible.
-- [Vezir Project](https://github.com/oguzhantopgul/Vezir-Project "Vezir Project") - Mobile Application Pentesting and Malware Analysis Environment.
 
 ### Static Source Code Analysis
 
