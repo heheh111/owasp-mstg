@@ -77,7 +77,6 @@ To perform security testing different tools are available in order to be able to
 - [Java AES Crypto](https://github.com/tozny/java-aes-crypto "Java AES Crypto") - A simple Android class for encrypting & decrypting strings, aiming to avoid the classic mistakes that most such classes suffer from.
 - [Proguard](https://www.guardsquare.com/en/products/proguard "Proguard") - ProGuard is a free Java class file shrinker, optimizer, obfuscator, and preverifier. It detects and removes unused classes, fields, methods, and attributes.
 - [SQL Cipher](https://www.zetetic.net/sqlcipher/sqlcipher-for-android/ "SQL Cipher") - SQLCipher is an open source extension to SQLite that provides transparent 256-bit AES encryption of database files.
-- [Secure Preferences](https://github.com/scottyab/secure-preferences "Secure Preferences") - Android Shared preference wrapper than encrypts the keys and values of Shared Preferences.
 - [Trusted Intents](https://github.com/guardianproject/TrustedIntents "Trusted Intents") - Library for flexible trusted interactions between Android apps.
 - [Capillary](https://github.com/google/capillary "Capillary") - Capillary is a library to simplify the sending of end-to-end encrypted push messages from Java-based application servers to Android clients.
 
